@@ -1,0 +1,6 @@
+{"env": {
+        "DB_USER":"deep",
+        "DB_PASS":"deep",
+        "DB_NAME":"test"
+ }
+}
