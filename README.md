@@ -2,8 +2,8 @@
 Music Share is a web application for sharing and managing your favorite tracks and playlists. It is built using the MERN (MongoDB, Express, React, Node.js) stack and allows users to create and share playlists, as well as browse and listen to tracks uploaded by other users.
 
 # Features
-#User authentication: Users can create an account, log in, and logout.
-#Track management: Users can upload and manage their own tracks, as well as browse and listen to tracks uploaded by them.
+#User authentication: Users can create an account, log in, and logout.<br/>
+#Track management: Users can upload and manage their own tracks, as well as browse and listen to tracks uploaded by them.<br/>
 -Playlist management: Users can create and manage playlists, add tracks to playlists.
 -Search functionality: Users can search for tracks by keyword.
 
