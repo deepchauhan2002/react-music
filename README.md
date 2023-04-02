@@ -50,5 +50,11 @@ This application is built using the following technologies:<br/>
 -Render: A unified cloud  used to build, deploy and host my server.<br/>
 -FireBase: A lightweight hosting platform used for hosting my frontend client.<br/>
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/108655042/229369099-29ecd693-cca6-4d0e-9d14-885c335847b0.png)
+![image](https://user-images.githubusercontent.com/108655042/229369251-bb98c81a-ca4f-4ea7-9003-b846807f22ac.png)
+![image](https://user-images.githubusercontent.com/108655042/229369518-3b1d086e-db32-4eba-90db-9a29d51285bc.png)
+
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
